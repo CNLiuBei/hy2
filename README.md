@@ -25,13 +25,13 @@ wget -O cn.sh https://raw.githubusercontent.com/CNLiuBei/hy2/main/lvhy.sh && chm
 ```
 或者
 ```bash
-bash <(curl -sSL https://raw.githubusercontent.com/CNLiuBei/hy2/main/lvhy.sh)
+bash <(curl -sSL https://raw.githubusercontent.com/CNLiuBei/hy2/main/cn.sh)
 ```
 
 ### 2. 再次运行脚本
 
 ```bash
-sudo bash lvhy.sh
+sudo bash cn.sh
 ```
 
 脚本将以 root 权限运行，并显示主菜单。
@@ -40,15 +40,7 @@ sudo bash lvhy.sh
 
 脚本启动后，你会看到类似如下的菜单：
 
-```
-================================================
- Sing-Box Hysteria2 & Reality 管理脚本 
-================================================
- 作者:      jcnf-那坨
- 网站:      https://ybfl.net
- TG 频道:   https://t.me/mffjc
- TG 交流群: https://t.me/+TDz0jE2WcAvfgmLi
-================================================
+
 安装选项:
   1. 安装 Hysteria2 + Reality (共存)
   2. 单独安装 Hysteria2
