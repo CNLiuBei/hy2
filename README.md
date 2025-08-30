@@ -21,7 +21,7 @@
 ### 1. 下载并运行脚本
 
 ```bash
-wget -O lvhy.sh https://raw.githubusercontent.com/CNLiuBei/hy2/main/lvhy.sh && chmod +x lvhy.sh && ./lvhy.sh
+wget -O cn.sh https://raw.githubusercontent.com/CNLiuBei/hy2/main/lvhy.sh && chmod +x cn.sh && ./cn.sh
 ```
 或者
 ```bash
